@@ -3,7 +3,7 @@ import './Body.css';
 
 function Body(){
     return (
-        <div className='Body'>
+        <div className='body'>
             <h1>
                 I am the bodyyy
             </h1>
@@ -11,4 +11,4 @@ function Body(){
     )
 }
 
-export default Body
+export default Body;
